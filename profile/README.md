@@ -10,5 +10,3 @@ Built with cutting-edge ZK-rollups and EVM compatibility, JMDT empowers business
 - **Enterprise Adoption** – Scalable infrastructure for real-world applications.
 
 Join us in building the next generation of decentralized, privacy-first applications with JMDT.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JupiterMetaLabs&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
